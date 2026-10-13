@@ -24,4 +24,4 @@ I like taking data from its source (APIs, databases, files) all the way to a das
 
 French (native) · Turkish (bilingual) · English (B2) · Spanish (B1)
 
-📫 fm.furkan06@gmail.com
+📫 fm.furkan0660@gmail.com
