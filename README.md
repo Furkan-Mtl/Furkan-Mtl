@@ -22,6 +22,6 @@ I like taking data from its source (APIs, databases, files) all the way to a das
 
 ### Languages
 
-French (native) · Turkish (bilingual) · English (B2) · Spanish (B1)
+French (native) | English (B2) | Spanish (B1)
 
 📫 fm.furkan0660@gmail.com
