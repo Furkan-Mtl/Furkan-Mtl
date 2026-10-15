@@ -17,8 +17,8 @@ I like taking data from its source (APIs, databases, files) all the way to a das
 
 | Project | Stack | Status |
 | --- | --- | --- |
-| [FIFA World Cup — Historical Analysis](https://github.com/Furkan-Mtl/world-cup-analysis) | Dataiku, Grafana | ✅ (university team project) |
-| [French fuel prices — API to Power BI pipeline](https://github.com/Furkan-Mtl/fuel-prices-france) | Python, REST API, PostgreSQL, Power BI | ✅ (Personal project) |
+| [FIFA World Cup: Historical Analysis](https://github.com/Furkan-Mtl/world-cup-analysis) | Dataiku, Grafana | ✅ (university team project) |
+| [French fuel prices: API to Power BI pipeline](https://github.com/Furkan-Mtl/fuel-prices-france) | Python, REST API, PostgreSQL, Power BI | ✅ (Personal project) |
 
 ### Languages
 
