@@ -9,7 +9,7 @@ I like taking data from its source (APIs, databases, files) all the way to a das
 | Area | Tools |
 | --- | --- |
 | Data and BI | SQL, PostgreSQL, Power BI (DAX, Power Query), Excel, Dataiku, Grafana |
-| Programming | Python (Pandas), C#, TypeScript |
+| Programming | Python, C#, TypeScript |
 | Web | Next.js, ASP.NET, Strapi |
 | Tools | Git, GitHub, GitLab |
 
